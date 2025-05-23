@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+.message {
+  background-color: #dff0d8;
+  padding: 10px;
+  display: none;
+  margin: 10px 0;
+}
+.article {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+.btn-container button {
+  margin-right: 10px;
+}
